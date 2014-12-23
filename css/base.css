@@ -597,7 +597,7 @@ a.appspop:hover {
 
 /* line 35, ../sass/_backgrounds.scss */
 .pagebg.imagefellowsback {
-  background: url("../img/sd_moshpit_stickies.jpg") no-repeat;
+  background: url("../img/none") no-repeat;
   background-size: cover;
   background-position: right;
   opacity: 0.4;
@@ -638,7 +638,7 @@ a.appspop:hover {
 
 /* line 65, ../sass/_backgrounds.scss */
 .pagebg.imagethanksback {
-  background: url("../img/thanksback.jpg") no-repeat;
+  background: url("../img/sd_summercamp_fun.jpg") no-repeat;
   background-size: cover;
   background-position: right;
   -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='img/thanksback.jpg', sizingMethod='scale')";
