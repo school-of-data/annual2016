@@ -3582,3 +3582,11 @@ img.progicons {
  display: block;
  border-radius: 50% !important;
 }
+.imgadapt {
+  width: 100%;
+  height: auto;
+  min-width: none;
+  max-width: none;
+  min-height: none;
+  max-height: none;
+}
