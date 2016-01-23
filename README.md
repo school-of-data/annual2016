@@ -1,4 +1,4 @@
-School of Data Report, 2015
+##School of Data Report, 2015
 
 This is the second iteration of our annual report, built on top of the wonderful work led by Zara Rahman and others in 2014.
 
