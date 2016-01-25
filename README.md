@@ -1,6 +1,6 @@
-# Code for America Annual Report
+# School of Data 2015 annual report.
 
-* View the [Code for America Annual Report](http://codeforamerica.github.com/annual/)
+* You are in the master branch. All changes are published to gh-pages branch. Please refer to it so see actual code.
 
 This site is build using jekyll. To run:
 
